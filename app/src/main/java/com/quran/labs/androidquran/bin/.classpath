@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="ui/helpers/|ui/adapter/|presenter/data/|database/di/component/application/|ui/translation/|database/di/|database/|presenter/recitation/|presenter/quran/|pageselect/|service/|dao/audio/|data/|presenter/translation/" kind="src" path=""/>
+	<classpathentry kind="src" path="dao/audio"/>
+	<classpathentry kind="src" path="data"/>
+	<classpathentry excluding="di/component/application/|di/" kind="src" path="database"/>
+	<classpathentry excluding="component/application/" kind="src" path="database/di"/>
+	<classpathentry kind="src" path="database/di/component/application"/>
+	<classpathentry kind="src" path="pageselect"/>
+	<classpathentry kind="src" path="presenter/data"/>
+	<classpathentry kind="src" path="presenter/quran"/>
+	<classpathentry kind="src" path="presenter/recitation"/>
+	<classpathentry kind="src" path="presenter/translation"/>
+	<classpathentry kind="src" path="service"/>
+	<classpathentry kind="src" path="ui/adapter"/>
+	<classpathentry kind="src" path="ui/helpers"/>
+	<classpathentry kind="src" path="ui/translation"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

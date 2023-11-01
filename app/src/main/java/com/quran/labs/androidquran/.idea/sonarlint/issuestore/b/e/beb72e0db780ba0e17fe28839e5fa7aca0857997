@@ -1,0 +1,19 @@
+
+a
+java:S1301¢"KReplace this "switch" statement by "if" statements to increase readability.(¼çø_
+0
+java:S1220""Move this file to a named package.
+U	java:S899J";Do something with the "boolean" value returned by "delete".(é‘‚©úÿÿÿÿ
+i
+java:S4042J"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(é‘‚©úÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¬âß
+X	java:S899´"BDo something with the "boolean" value returned by "createNewFile".(ë§£Í
+]	java:S899µ"BDo something with the "boolean" value returned by "createNewFile".(µªºÇÿÿÿÿÿ
+]	java:S899¶"BDo something with the "boolean" value returned by "createNewFile".(Í‡ŸÎøÿÿÿÿ
+i
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(™ªˆ
+C
+java:S1125‡"'Remove the unnecessary boolean literal.(¹Çµ¼ùÿÿÿÿ
+P
+java:S1068 "5Remove this unused "permissionsDialog" private field.(­ÿ¦Åıÿÿÿÿ

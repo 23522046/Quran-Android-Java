@@ -1,0 +1,75 @@
+
+F
+java:S1066®"/Merge this if statement with the enclosing one.(½¾Ø§
+Q
+java:S1141´"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141É"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+o	java:S116t"ZRename this field "NOTIFICATION_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÈÄ°
+7
+java:S1170t"!Make this final field static too.(ñÈÄ°
+}
+java:S1450y"gRemove the "noisyAudioStreamReceiver" field and declare it as a local variable in the relevant methods.(³…ýö
+r
+java:S1450{"\Remove the "serviceLooper" field and declare it as a local variable in the relevant methods.(Äôé­
+P
+java:S1118G":Add a private constructor to hide the implicit public one.(‰¿à‡
+_
+java:S1117S"DRename "ACTION_PLAYBACK" which hides the field declared at line 145.(·ëéßùÿÿÿÿ
+U
+java:S1117T"@Rename "ACTION_PLAY" which hides the field declared at line 147.(Ø¶îy
+W
+java:S1117U"ARename "ACTION_PAUSE" which hides the field declared at line 148.(©žû‚
+[
+java:S1117V"@Rename "ACTION_STOP" which hides the field declared at line 150.(àªë•úÿÿÿÿ
+[
+java:S1117W"@Rename "ACTION_SKIP" which hides the field declared at line 149.(‰˜ë¯øÿÿÿÿ
+X
+java:S1117X"BRename "ACTION_REWIND" which hides the field declared at line 151.(á®Þ¬
+^
+java:S1117Y"CRename "ACTION_CONNECT" which hides the field declared at line 146.(…ù¬øÿÿÿÿ
+d
+java:S1117Z"IRename "ACTION_UPDATE_REPEAT" which hides the field declared at line 152.(·µ»ðûÿÿÿÿ
+_
+java:S1117d"DRename "EXTRA_PLAY_INFO" which hides the field declared at line 153.(µŽ³¢ûÿÿÿÿ
+W
+java:S1117g"ARename "MSG_INCOMING" which hides the field declared at line 141.(öêõã
+Z
+java:S1117h"DRename "MSG_START_AUDIO" which hides the field declared at line 142.(ç‚÷
+d
+java:S1117i"IRename "MSG_UPDATE_AUDIO_POS" which hides the field declared at line 143.(ÍÙ‰µûÿÿÿÿ
+o	java:S115p"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŽØ¼à
+o	java:S115p"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŽØ¼à
+o	java:S115p"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŽØ¼à
+o	java:S115p"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŽØ¼à
+t	java:S115r"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¢üüôþÿÿÿÿ
+t	java:S115r"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¢üüôþÿÿÿÿ
+t	java:S115r"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¢üüôþÿÿÿÿ
+i
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(œñ³¸
+V
+java:S1117ñ":Rename "state" which hides the field declared at line 111.(¶äé¶øÿÿÿÿ
+n
+java:S3776Ý"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(«þØÊùÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(®–ïþÿÿÿÿ
+i
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ïé‡–
+R
+java:S1117½";Rename "player" which hides the field declared at line 107.(ô£ßØ
+X
+java:S1117Ý"ARename "audioRequest" which hides the field declared at line 109.(ÓÃÀµ
+[
+java:S1117ø"?Rename "audioQueue" which hides the field declared at line 110.(‘®ñúÿÿÿÿ
+n
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(†Îš—ýÿÿÿÿ
+R
+java:S1117þ";Rename "player" which hides the field declared at line 107.(ô£ßØ
+C
+java:S3398Ý"'Move this method into "ServiceHandler".(«þØÊùÿÿÿÿ
+>
+java:S3398è"'Move this method into "ServiceHandler".(œñ³¸
+U
+java:S1144Ù">Remove this unused private "notificationPendingIntent" method.(‰Žð†
